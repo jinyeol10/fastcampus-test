@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-owp-#wf!4kbm_i29_*@-3_6$gbz_pyvmr#$7ee4#s#_=aq2t_!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [' 15.164.163.182']
 
 # Application definition
 
